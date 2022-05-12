@@ -1,7 +1,7 @@
 # ChallengerDSAlura
 Challenger Data Science Alura - 1ª SEMANA
-![image](https://user-images.githubusercontent.com/99334325/168148471-dd1833c1-a86e-44b7-b280-24491a775174.png)
 
+LIMPEZA, TRATAMENTO E ENTENDIMENTO DOS DADOS SOLICITADOS NO DESAFIO.
 
 Sobre o desafio.
 
